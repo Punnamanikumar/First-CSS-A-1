@@ -1,0 +1,23 @@
+.p1{
+    color: rgba(223, 11, 11, 0.76);
+}
+
+.class{
+    line-height: 40px;
+}
+.cal{
+    letter-spacing: 5px;
+    color: rgba(223, 11, 11, 0.76);
+}
+#q{
+    text-decoration: line-through;
+}
+#w{
+    background: yellow;
+}
+#w{
+    text-decoration: none;
+}
+#e{
+    text-decoration: underline;
+}
